@@ -23,11 +23,9 @@ Here are a few highlights from my recent work:
 ## 📊 GitHub Stats  
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uaesivakumar&show_icons=true&hide_rank=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uaesivakumar&layout=compact&hide=Jupyter%20Notebook&langs_count=8) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uaesivakumar&show_icons=true&hide_rank=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uaesivakumar&layout=compact&hide=Jupyter%20Notebook&langs_count=8)  
 
 ## 💌 Get in Touch  
-If you’d like to collaborate or chat about AI and data science, feel free to reach out via [GitHub Discussions](https://github.com/uaesivakumar/uaesivakumar/discussions) or connect with me on [LinkedIn](https://www.linkedin.com/). I'm always excited to meet like like‑minded professionals!  
+If you’d like to collaborate or chat about AI and data science, feel free to reach out via [GitHub Discussions](https://github.com/uaesivakumar/uaesivakumar/discussions) or connect with me on [LinkedIn]([https://www.linkedin.com/in/uaesivakumar/)). I'm always excited to meet like like‑minded professionals!  
 
 ---  
-*Inspired by best practices for creating a standout GitHub profile.* 
