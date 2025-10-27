@@ -21,7 +21,6 @@ Here are a few highlights from my recent work:
 - **Multitenant AI Bot:** A scalable bot framework that serves multiple tenants with individualized knowledge bases, enabling businesses to deploy conversational assistants quickly.  
 
 ## 📊 GitHub Stats  
-## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uaesivakumar&show_icons=true&hide_rank=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uaesivakumar&layout=compact&hide=Jupyter%20Notebook&langs_count=8)  
 
