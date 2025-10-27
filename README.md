@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a data scientist and AI engineer based in Abu 
 
 ## 🚀 Featured Projects  
 Here are a few highlights from my recent work:  
-- **UPR – Universal People Radar:** A sophisticated AI platform that provides personalized communication assistance across languages and domains. It integrates LLMs, retrieval augmented generation, and dynamic memory to deliver contextually relevant responses.  
+- **UPR:** A sophisticated AI platform that provides personalized communication assistance across languages and domains. It integrates LLMs, retrieval augmented generation, and dynamic memory to deliver contextually relevant responses.  
 - **WhatsApp Smart Agents:** Intelligent bots that automate customer interactions, performing tasks such as account queries, transaction summaries and general inquiries over WhatsApp with bank‑grade security.  
 - **Multitenant AI Bot:** A scalable bot framework that serves multiple tenants with individualized knowledge bases, enabling businesses to deploy conversational assistants quickly.  
 
