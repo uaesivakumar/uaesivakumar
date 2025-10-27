@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a data scientist and AI engineer based in Abu Dhabi. I build intelligent systems that leverage cutting edge machine learning and generative AI to solve real-world problems.  
 
 ## 🌟 About Me  
-- 🔭 I’m currently leading R&D on **Universal People Radar (UPR)**, a multilingual AI engine that understands and personalizes communication across domains.  
+- 🔭 I’m currently leading R&D on **UPR**, a multilingual AI engine that understands and personalizes communication across domains.  
 - 📱 I’ve developed **WhatsApp Smart Agent** bots that automate banking and customer service interactions.  
 - 🧠 I’m passionate about applying **LLM agents** and multi‑agent architectures to build context‑aware conversational solutions.  
 - 🏆 I love exploring new data‑science challenges and working on impactful projects.  
