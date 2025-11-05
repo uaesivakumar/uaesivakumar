@@ -1,4 +1,4 @@
-# 🚀 Sivakumar Chandrasekaran - AI & Data Science Engineer
+# Sivakumar Chandrasekaran - AI & Data Science Engineer
 
 <div align="center">
 
