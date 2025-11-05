@@ -13,7 +13,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Professional Summary](#-professional-summary)
 - [Skills & Tech Stack](#-skills--tech-stack)
@@ -25,45 +25,45 @@
 
 ---
 
-## 👤 Professional Summary
+##  Professional Summary
 
 Data Scientist and AI Engineer based in **Abu Dhabi** with proven expertise in building and deploying intelligent systems. Specialized in **LLM-powered applications**, **multi-agent architectures**, and **conversational AI**. Passionate about leveraging cutting-edge machine learning and generative AI to create scalable, impactful solutions that transform business processes and enhance user experiences.
 
-### 🎯 Key Focus Areas
+###  Key Focus Areas
 
-- 🤖 **Generative AI & LLMs** - Building context-aware conversational agents
-- 📊 **Machine Learning** - Developing predictive models and NLP solutions
-- 🔧 **AI Integration** - Seamlessly integrating AI into existing platforms
-- 🏗️ **Scalable Architecture** - Designing multi-tenant, production-ready systems
-- 💬 **Natural Language Processing** - Multilingual understanding and personalization
+-  **Generative AI & LLMs** - Building context-aware conversational agents
+-  **Machine Learning** - Developing predictive models and NLP solutions
+-  **AI Integration** - Seamlessly integrating AI into existing platforms
+-  **Scalable Architecture** - Designing multi-tenant, production-ready systems
+-  **Natural Language Processing** - Multilingual understanding and personalization
 
 ---
 
-## 🛠️ Skills & Tech Stack
+##  Skills & Tech Stack
 
-### 🐍 Programming Languages
+###  Programming Languages
 **Python** | **JavaScript** | **Bash** | **SQL**
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 **PyTorch** | **TensorFlow** | **scikit-learn** | **LangChain** | **Transformers** | **HuggingFace** | **OpenAI API** | **Prompt Engineering**
 
-### 📊 Data Engineering
+###  Data Engineering
 **Pandas** | **NumPy** | **SQL** | **Apache Airflow** | **ETL Pipelines**
 
-### 🌐 Web & APIs
+###  Web & APIs
 **FastAPI** | **Flask** | **REST APIs** | **GraphQL** | **WebSockets**
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 **AWS (EC2, S3, Lambda)** | **Azure** | **Google Cloud** | **Docker** | **Kubernetes** | **GitHub Actions** | **CI/CD**
 
-### 📦 Additional Tools
+###  Additional Tools
 **Git/GitHub** | **VS Code** | **Jupyter Notebooks** | **Streamlit** | **Postman**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 1. 🌍 UPR - Multilingual AI Communication Engine
+### 1.  UPR - Multilingual AI Communication Engine
 
 **Impact:** Enterprise-grade platform serving multiple languages and domains
 
@@ -79,7 +79,7 @@ Data Scientist and AI Engineer based in **Abu Dhabi** with proven expertise in b
 
 ---
 
-### 2. 💬 WhatsApp Smart Banking Agents
+### 2.  WhatsApp Smart Banking Agents
 
 **Impact:** Automated 10,000+ customer interactions, reduced support tickets by 40%
 
@@ -96,7 +96,7 @@ Data Scientist and AI Engineer based in **Abu Dhabi** with proven expertise in b
 
 ---
 
-### 3. 🏢 Multitenant AI Bot Framework
+### 3.  Multitenant AI Bot Framework
 
 **Impact:** Enables rapid deployment for enterprise clients
 
@@ -113,15 +113,15 @@ Data Scientist and AI Engineer based in **Abu Dhabi** with proven expertise in b
 
 ---
 
-## 💼 Experience Timeline
+##  Experience Timeline
 
-### 🔬 Senior AI Engineer / R&D Lead
+### Senior AI Engineer / R&D Lead
 **Current Role**
 - Leading research and development on next-generation AI communication platforms
 - Architecting multi-agent systems for enterprise applications
 - Mentoring junior engineers and driving technical innovation
 
-### 🤖 AI/ML Engineer
+###  AI/ML Engineer
 **Previous Experience**
 - Developed and deployed WhatsApp banking bots serving thousands of users
 - Built scalable NLP pipelines for multilingual processing
@@ -129,7 +129,7 @@ Data Scientist and AI Engineer based in **Abu Dhabi** with proven expertise in b
 
 ---
 
-## 📜 Certifications & Achievements
+##  Certifications & Achievements
 
 - 🏆 **Advanced Machine Learning Specialization** - In Progress
 - 🏆 **Natural Language Processing Expert** - Verified
@@ -139,7 +139,7 @@ Data Scientist and AI Engineer based in **Abu Dhabi** with proven expertise in b
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
