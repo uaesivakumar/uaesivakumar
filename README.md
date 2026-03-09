@@ -71,7 +71,7 @@ Live at [sivakumar.ai](https://sivakumar.ai). Personal website and project showc
 
 ## Open To
 
-Roles in AI engineering, solutions architecture, or banking technology leadership. Open to opportunities in the UAE, Singapore, or Remote.
+Roles in AI engineering, solutions architecture, or banking technology leadership. Based in Abu Dhabi, UAE. Open to opportunities in the UAE, Singapore, or Remote globally.
 
 ---
 
