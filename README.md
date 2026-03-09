@@ -1,190 +1,78 @@
-# Sivakumar Chandrasekaran - AI & Data Science Engineer
+# Sivakumar Chandrasekaran
 
-<div align="center">
+**AI Solutions Architect | Full-Stack Developer | Banking Technology**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uaesivakumar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uaesivakumar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siva@sivakumar.ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://sivakumar.ai)
-
-**Passionate about building intelligent systems that solve real-world problems**
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-uaesivakumar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/uaesivakumar)
+[![Website](https://img.shields.io/badge/Website-sivakumar.ai-000?style=flat&logo=safari)](https://sivakumar.ai)
+[![Email](https://img.shields.io/badge/Email-siva@sivakumar.ai-EA4335?style=flat&logo=gmail)](mailto:siva@sivakumar.ai)
 
 ---
 
-##  Table of Contents
+I build production-grade AI systems at the intersection of banking and technology. With 20 years of experience spanning IT delivery and financial services, I design and ship full-stack applications that solve real business problems using modern LLM APIs, RAG pipelines, and cloud-native architecture.
 
-- [Professional Summary](#-professional-summary)
-- [Skills & Tech Stack](#-skills--tech-stack)
-- [Featured Projects](#-featured-projects)
-- [Experience Timeline](#-experience-timeline)
-- [Certifications & Achievements](#-certifications--achievements)
-- [GitHub Analytics](#-github-analytics)
-- [Let's Connect](#-lets-connect)
+B.Tech in Information Technology. 8 years delivering 100+ technology projects for clients end-to-end. 12 years in banking, recognized as a top 1% performer (GEM Sapphire Award, 30,000+ employees). Now combining both worlds to build AI-powered products for the financial sector.
 
----
+## What I Build
 
-##  Professional Summary
+- **Enterprise AI applications** with multi-provider LLM orchestration (Claude, GPT, Gemini)
+- **RAG systems** using PostgreSQL pgvector for semantic search over domain-specific data
+- **Real-time data pipelines** with automated scoring and enrichment engines
+- **Full-stack web platforms** from database schema to deployed product
 
-Data Scientist and AI Engineer based in **Abu Dhabi** with proven expertise in building and deploying intelligent systems. Specialized in **LLM-powered applications**, **multi-agent architectures**, and **conversational AI**. Passionate about leveraging cutting-edge machine learning and generative AI to create scalable, impactful solutions that transform business processes and enhance user experiences.
+## Tech Stack
 
-###  Key Focus Areas
+| Layer | Technologies |
+|-------|-------------|
+| **AI / LLM** | OpenAI GPT API, Anthropic Claude API, Google Vertex AI (Gemini), RAG, pgvector, Prompt Engineering, Multi-Agent Orchestration, AI-Assisted Development (Claude Code) |
+| **Frontend** | Next.js 14, React 18, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Python, Flask |
+| **Databases** | PostgreSQL, pgvector, Redis, Google Firestore |
+| **Cloud** | GCP (Cloud Run, Cloud SQL, Pub/Sub, Secret Manager), Docker, CI/CD |
+| **Data** | Web Scraping (BeautifulSoup), Pandas, ETL Pipelines |
 
--  **Generative AI & LLMs** - Building context-aware conversational agents
--  **Machine Learning** - Developing predictive models and NLP solutions
--  **AI Integration** - Seamlessly integrating AI into existing platforms
--  **Scalable Architecture** - Designing multi-tenant, production-ready systems
--  **Natural Language Processing** - Multilingual understanding and personalization
+## Featured Projects
 
----
+Most of my work is in private repositories. See my contribution graph for activity, or visit [sivakumar.ai](https://sivakumar.ai) for project details.
 
-##  Skills & Tech Stack
+### Premier Radar -- Enterprise B2B Sales Intelligence Platform
+The largest project in my portfolio. A multi-service platform that aggregates business intelligence for banking sales teams using AI-driven analysis and scoring.
+- 1,600+ source files across 3 microservices, 92 database migrations
+- Multi-provider LLM gateway with intelligent routing across Claude, GPT, and Gemini
+- RAG pipeline with PostgreSQL pgvector for semantic search
+- Real-time data ingestion, automated lead scoring engine
+- *Next.js, Node.js, TypeScript, PostgreSQL, pgvector, Redis, GCP Cloud Run, Docker*
 
-###  Programming Languages
-**Python** | **JavaScript** | **Bash** | **SQL**
+### SKC Digital -- AI Consulting Platform
+Live at [skc.digital](https://skc.digital). An AI-native consulting engine for strategic analysis and decision support.
+- *Next.js, TypeScript, Vertex AI, PostgreSQL*
 
-###  AI & Machine Learning
-**PyTorch** | **TensorFlow** | **scikit-learn** | **LangChain** | **Transformers** | **HuggingFace** | **OpenAI API** | **Prompt Engineering**
+### AI Leads Portal -- Event Lead Capture System
+AI-powered lead scoring system built for banking expo events. Features a self-learning scoring engine that improves with feedback.
+- *Node.js, OpenAI API, Firestore, GCP*
 
-###  Data Engineering
-**Pandas** | **NumPy** | **SQL** | **Apache Airflow** | **ETL Pipelines**
+### Coach -- Performance Evaluation System
+Microservices-based system for structured performance analysis with AI-generated insights.
+- *Python, Flask, Firestore, GCP*
 
-###  Web & APIs
-**FastAPI** | **Flask** | **REST APIs** | **GraphQL** | **WebSockets**
+### PAYROLL -- Data Enrichment Pipeline
+Automated scraping and enrichment pipeline for ADGM company registry data.
+- *Python, BeautifulSoup, Pandas*
 
-###  Cloud & DevOps
-**AWS (EC2, S3, Lambda)** | **Azure** | **Google Cloud** | **Docker** | **Kubernetes** | **GitHub Actions** | **CI/CD**
+### sivakumar.ai -- Personal Portfolio
+Live at [sivakumar.ai](https://sivakumar.ai). Personal website and project showcase.
+- *Next.js, Tailwind CSS*
 
-###  Additional Tools
-**Git/GitHub** | **VS Code** | **Jupyter Notebooks** | **Streamlit** | **Postman**
+## Background
 
----
+- **B.Tech in Information Technology**, Anna University (2002--2006)
+- **8 years** delivering technology projects: 100+ client engagements covering web development, digital marketing, SEO, and end-to-end project management
+- **12 years** in banking and financial services, with deep domain knowledge in retail and priority banking, client advisory, and sales operations
+- **Top 1% performer** -- GEM Sapphire Award and CEO Certificate of Achievement
 
-##  Featured Projects
+## Open To
 
-### 1.  UPR - Multilingual AI Communication Engine
-
-**Impact:** Enterprise-grade platform serving multiple languages and domains
-
-**Key Technologies:** LangChain, RAG, FastAPI, LLMs, Vector Databases
-
-**Description:** A sophisticated AI platform that provides personalized communication assistance across languages and domains. It integrates advanced LLMs, retrieval-augmented generation (RAG), and dynamic memory management to deliver contextually relevant responses.
-
-**Highlights:**
-- ✅ Multilingual support with context awareness
-- ✅ Real-time response generation
-- ✅ Domain-specific knowledge integration
-- ✅ Personalized user interactions
-
----
-
-### 2.  WhatsApp Smart Banking Agents
-
-**Impact:** Automated 10,000+ customer interactions, reduced support tickets by 40%
-
-**Key Technologies:** Python, WhatsApp API, FastAPI, Banking APIs, Security Protocols
-
-**Description:** Intelligent bots that automate customer interactions directly on WhatsApp, performing account queries, transaction summaries, and general banking inquiries with bank-grade security and compliance.
-
-**Highlights:**
-- ✅ Real-time account information delivery
-- ✅ Secure transaction processing
-- ✅ Multi-language support
-- ✅ Compliance with banking regulations
-- ✅ 24/7 availability
+Roles in AI engineering, solutions architecture, or banking technology leadership. Open to opportunities in the UAE, Singapore, or Remote.
 
 ---
 
-### 3.  Multitenant AI Bot Framework
-
-**Impact:** Enables rapid deployment for enterprise clients
-
-**Key Technologies:** Kubernetes, FastAPI, PostgreSQL, Redis, Docker
-
-**Description:** A scalable bot framework that serves multiple tenants with individualized knowledge bases and customization options, enabling businesses to deploy conversational assistants quickly without infrastructure overhead.
-
-**Highlights:**
-- ✅ Tenant isolation and data privacy
-- ✅ Customizable knowledge bases
-- ✅ Zero-downtime deployments
-- ✅ Auto-scaling capabilities
-- ✅ Comprehensive monitoring
-
----
-
-##  Experience Timeline
-
-### Senior AI Engineer / R&D Lead
-**Current Role**
-- Leading research and development on next-generation AI communication platforms
-- Architecting multi-agent systems for enterprise applications
-- Mentoring junior engineers and driving technical innovation
-
-###  AI/ML Engineer
-**Previous Experience**
-- Developed and deployed WhatsApp banking bots serving thousands of users
-- Built scalable NLP pipelines for multilingual processing
-- Contributed to core infrastructure for AI platforms
-
----
-
-##  Certifications & Achievements
-
-- 🏆 **Advanced Machine Learning Specialization** - In Progress
-- 🏆 **Natural Language Processing Expert** - Verified
-- 🏆 **Deep Learning with PyTorch** - Completed
-- 🏆 **Full-Stack AI Development** - Completed
-- 🏆 **Cloud Computing (AWS)** - In Progress
-
----
-
-##  GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uaesivakumar&show_icons=true&hide_rank=false&include_all_commits=true&count_private=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uaesivakumar&layout=compact&hide=Jupyter%20Notebook&langs_count=8&theme=github_dark)
-
-</div>
-
----
-
-## 📞 Let's Connect!
-
-<div align="center">
-
-### 🤝 I'm always open to:
-- 💬 Collaborating on AI/ML projects
-- 🔍 Discussing innovative ideas
-- 🚀 Exploring new opportunities
-- 💡 Sharing knowledge and insights
-
-### 📱 Contact Me
-
-| Platform | Link |
-|----------|------|
-| **LinkedIn** | [uaesivakumar](https://www.linkedin.com/in/uaesivakumar/) |
-| **GitHub** | [uaesivakumar](https://github.com/uaesivakumar) |
-| **Email** | [Get in Touch](mailto:your-email@example.com) |
-
----
-
-### 🎯 Call to Action
-
-**Looking for a dedicated AI/ML engineer or data scientist?**
-
-Let's create something extraordinary together! Feel free to explore my repositories, check out my projects, and don't hesitate to reach out for collaborations, opportunities, or just to share ideas. Whether you're working on cutting-edge AI solutions, scaling data infrastructure, or building intelligent systems, I'm excited to contribute to your mission.
-
----
-
-</div>
-
-<div align="center">
-
-⭐ **If you found my work interesting, please consider giving it a star!** ⭐
-
-*Last Updated: November 2025*
-
-</div>
+*Currently building AI systems for the financial sector. Let's connect: [siva@sivakumar.ai](mailto:siva@sivakumar.ai)*
