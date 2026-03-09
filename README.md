@@ -36,11 +36,12 @@ Most of my work is in private repositories. See my contribution graph for activi
 
 ### Premier Radar -- Enterprise B2B Sales Intelligence Platform
 The largest project in my portfolio. A multi-service platform that aggregates business intelligence for banking sales teams using AI-driven analysis and scoring.
-- 1,600+ source files across 3 microservices, 92 database migrations
+- 2,676+ source files across 4 repositories, 38+ specialized services, 87 database migrations, 80+ database tables
 - Multi-provider LLM gateway with intelligent routing across Claude, GPT, and Gemini
 - RAG pipeline with PostgreSQL pgvector for semantic search
 - Real-time data ingestion, automated lead scoring engine
 - *Next.js, Node.js, TypeScript, PostgreSQL, pgvector, Redis, GCP Cloud Run, Docker*
+- 5 provisional patent applications for novel AI architectures
 
 ### SKC Digital -- AI Consulting Platform
 Live at [skc.digital](https://skc.digital). An AI-native consulting engine for strategic analysis and decision support.
