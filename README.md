@@ -24,7 +24,7 @@ B.Tech in Information Technology. 8 years delivering 100+ technology projects fo
 | Layer | Technologies |
 |-------|-------------|
 | **AI / LLM** | OpenAI GPT API, Anthropic Claude API, Google Vertex AI (Gemini), RAG, pgvector, Prompt Engineering, Multi-Agent Orchestration, AI-Assisted Development (Claude Code) |
-| **Frontend** | Next.js 14, React 18, TypeScript, Tailwind CSS |
+| **Frontend** | Next.js 16, React 19, TypeScript, Tailwind CSS |
 | **Backend** | Node.js, Express.js, Python, Flask |
 | **Databases** | PostgreSQL, pgvector, Redis, Google Firestore |
 | **Cloud** | GCP (Cloud Run, Cloud SQL, Pub/Sub, Secret Manager), Docker, CI/CD |
@@ -34,7 +34,7 @@ B.Tech in Information Technology. 8 years delivering 100+ technology projects fo
 
 Most of my work is in private repositories. See my contribution graph for activity, or visit [sivakumar.ai](https://sivakumar.ai) for project details.
 
-### Premier Radar -- Enterprise B2B Sales Intelligence Platform
+### PremiumRadar -- Enterprise B2B Sales Intelligence Platform
 The largest project in my portfolio. A multi-service platform that aggregates business intelligence for banking sales teams using AI-driven analysis and scoring.
 - 2,676+ source files across 4 repositories, 38+ specialized services, 87 database migrations, 80+ database tables
 - Multi-provider LLM gateway with intelligent routing across Claude, GPT, and Gemini
