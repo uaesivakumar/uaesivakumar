@@ -35,6 +35,12 @@ I design end-to-end AI systems that go beyond demos — governed, auditable, and
 
 ---
 
+## 🧩 Open Source
+
+**[llm-gateway](https://github.com/uaesivakumar/llm-gateway)** — one interface across Anthropic, OpenAI and Google Gemini, with automatic failover, circuit breaking and per-request cost tracking. The multi-provider routing layer from my production systems, extracted and open-sourced: one runtime dependency, 91 offline tests, MIT licensed.
+
+---
+
 ## 🚀 Featured Systems
 
 | System | Domain | What it does | Status |
