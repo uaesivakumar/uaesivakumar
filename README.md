@@ -4,7 +4,7 @@
 
 ### AI Solutions Architect · Abu Dhabi, UAE 🇦🇪
 
-**I build production AI systems for financial services — and I've spent 12 years on the other side of the desk as a banker.**
+**I architect and ship production AI systems — RAG platforms, multi-agent orchestration, LLM infrastructure — proven across multiple industries, including one of the world's most regulated.**
 
 [![Website](https://img.shields.io/badge/sivakumar.ai-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sivakumar.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uaesivakumar)
@@ -15,8 +15,8 @@
 ![](https://img.shields.io/badge/Experience-20%20Years-1f6feb?style=flat-square)
 ![](https://img.shields.io/badge/AI%20Systems%20Shipped-9-1f6feb?style=flat-square)
 ![](https://img.shields.io/badge/Live%20in%20Production-5-2ea043?style=flat-square)
+![](https://img.shields.io/badge/Industry%20Domains-6%2B-8957e5?style=flat-square)
 ![](https://img.shields.io/badge/LLM%20Providers%2C%20One%20Gateway-3-8957e5?style=flat-square)
-![](https://img.shields.io/badge/Banking-Top%201%25%20Performer-d29922?style=flat-square)
 
 </div>
 
@@ -24,33 +24,33 @@
 
 ## 👋 About
 
-Most engineers who can build a RAG pipeline have never sat across from a bank customer. I've done both.
+I design end-to-end AI systems that go beyond demos — governed, auditable, and running in production for real users.
 
-- 🏦 **12 years in retail banking** at Emirates NBD — Senior Retail Banking Officer, GEMS Sapphire Award (top 1%), Group CEO Certificate of Achievement
-- 💻 **8 years in technology delivery** before that — 100+ client projects shipped (2006–2014)
-- 🤖 **Now:** designing and shipping AI systems for regulated financial environments — 9 systems built, 5 running live today
+- 🚀 **9 AI systems designed and shipped, 5 live today** — spanning talent intelligence, sales intelligence, consulting & decision support, education, civic analytics, HR & performance, and financial services
+- 🏗️ **20 years of experience**: 8 years in technology delivery (100+ client projects) followed by 12 years in enterprise environments, including Emirates NBD where I was recognised as a top 1% performer
+- 🛡️ **Regulated-industry depth**: I understand compliance, auditability and governance from the inside — skills that transfer to any enterprise AI deployment
 - 📜 **5 provisional patents filed** for novel AI architectures
 
-> Most of my work lives in **private product repos**. Architecture write-ups and technical decisions are public in [**ai-banking-portfolio**](https://github.com/uaesivakumar/ai-banking-portfolio), and live products are linked below.
+> 🔒 **A note on links & source code:** my products are commercial and client-facing, so I keep source code and direct product links private here out of confidentiality. Full case studies and live demos are available at [sivakumar.ai](https://sivakumar.ai) or on request.
 
 ---
 
 ## 🚀 Featured Systems
 
-| System | What it does | Status | Stack |
+| System | Domain | What it does | Status |
 |---|---|---|---|
-| **[inteller.ai](https://inteller.ai)** | Ghost-job detection & resume tailoring across 30+ job platforms | 🟢 Live | Next.js · LLM scoring · Stripe |
-| **[SKC Digital](https://skc.digital)** | Executive simulation built on 30+ documented AI programme failures | 🟢 Live | Vertex AI · pgvector · Next.js |
-| **RM Assistant** | Relationship-management copilot for bankers, with memory persistence | 🟢 Live | FastAPI · Claude · Firestore |
-| **AI Leads Portal** | Conversational intent capture & sales pipeline for banking events | 🟢 Live | Node.js · OpenAI · Firestore |
-| **PremiumRadar** | Governed B2B sales intelligence for regulated industries — 2,600+ source files, 38+ services, 5 provisional patents | 🤝 Seeking design partner | Multi-agent · RAG · pgvector · Neo4j · GCP |
-| **Arsha LMS · Chunav · Coach · Payroll Enrichment** | Learning platform, election analytics, performance evaluation, ADGM data pipeline | 🛠️ In design / build | FastAPI · D3 · Python · GCP |
+| **Inteller** | Talent intelligence | Ghost-job detection & resume tailoring across 30+ job platforms | 🟢 Live |
+| **SKC Digital** | Consulting / decision support | Executive simulation built on 30+ documented AI programme failures | 🟢 Live |
+| **RM Assistant** | Financial services | Relationship-management copilot with structured memory persistence | 🟢 Live |
+| **AI Leads Portal** | Sales intelligence | Conversational intent capture & pipeline scoring with self-learning feedback loops | 🟢 Live |
+| **PremiumRadar** | B2B sales intelligence | Governed intelligence platform for regulated industries — 2,600+ source files, 38+ services, 5 provisional patents | 🤝 Design-partner stage |
+| **Arsha LMS · Chunav · Coach · Payroll Enrichment** | EdTech · Civic analytics · HR · Data engineering | Multi-tenant learning platform, election analytics, performance evaluation, registry data pipeline | 🛠️ In design / build |
 
 ---
 
 ## 🏗️ Architecture Highlights
 
-- **Multi-provider LLM gateway** — failover across Anthropic, OpenAI and Vertex AI with cost tracking per request
+- **Multi-provider LLM gateway** — failover across Anthropic, OpenAI and Vertex AI with per-request cost tracking
 - **Governance by design** — the reasoning layer holds no credential that can change anything; deterministic state machines with 6 decision gates
 - **11-layer discovery pipeline** for entity resolution and enrichment
 - **Retrieval done properly** — pgvector + Neo4j hybrid search, structured memory, full audit trails
@@ -101,7 +101,9 @@ Most engineers who can build a RAG pipeline have never sat across from a bank cu
 
 ## 🤝 Open To
 
-**AI Solutions Architecture · AI Engineering · Banking + AI leadership roles** — Abu Dhabi / UAE (on-site or hybrid), and remote.
+**AI Solutions Architecture · AI / ML Engineering · LLM Platform Engineering · Technical Leadership**
+
+Across enterprise SaaS, fintech, government, consulting and product companies — Abu Dhabi / UAE (on-site or hybrid), and remote worldwide.
 
 <div align="center">
 
