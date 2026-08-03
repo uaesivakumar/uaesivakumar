@@ -41,6 +41,7 @@ I design end-to-end AI systems that go beyond demos — governed, auditable, and
 |---|---|
 | **[llm-gateway](https://github.com/uaesivakumar/llm-gateway)** | Multi-provider LLM routing — automatic failover, circuit breaking, a bounded latency budget, and cost tracking that refuses to guess. One runtime dependency, 115 offline tests, MIT. |
 | **[ai-architecture-notes](https://github.com/uaesivakumar/ai-architecture-notes)** | Design decisions from production AI systems with the trade-offs left in — agent governance, auditable LLM decisions, hybrid retrieval, and why AI programmes actually fail. |
+| **[ai-systems-portfolio](https://github.com/uaesivakumar/ai-systems-portfolio)** | Case studies of all nine production systems across six industries — architecture, decisions and trade-offs, with source kept private. |
 
 ---
 
