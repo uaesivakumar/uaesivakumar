@@ -1,79 +1,112 @@
+<div align="center">
+
 # Sivakumar Chandrasekaran
 
-**AI Solutions Architect | Full-Stack Developer | Banking Technology**
+### AI Solutions Architect · Abu Dhabi, UAE 🇦🇪
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-uaesivakumar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/uaesivakumar)
-[![Website](https://img.shields.io/badge/Website-sivakumar.ai-000?style=flat&logo=safari)](https://sivakumar.ai)
-[![Email](https://img.shields.io/badge/Email-siva@sivakumar.ai-EA4335?style=flat&logo=gmail)](mailto:siva@sivakumar.ai)
+**I build production AI systems for financial services — and I've spent 12 years on the other side of the desk as a banker.**
 
----
+[![Website](https://img.shields.io/badge/sivakumar.ai-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sivakumar.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uaesivakumar)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siva@sivakumar.ai)
 
-I build production-grade AI systems at the intersection of banking and technology. With 20 years of experience spanning IT delivery and financial services, I design and ship full-stack applications that solve real business problems using modern LLM APIs, RAG pipelines, and cloud-native architecture.
+<br>
 
-B.Tech in Information Technology. 8 years delivering 100+ technology projects for clients end-to-end. 12 years in banking, recognized as a top 1% performer (GEM Sapphire Award, 30,000+ employees). Now combining both worlds to build AI-powered products for the financial sector.
+![](https://img.shields.io/badge/Experience-20%20Years-1f6feb?style=flat-square)
+![](https://img.shields.io/badge/AI%20Systems%20Shipped-9-1f6feb?style=flat-square)
+![](https://img.shields.io/badge/Live%20in%20Production-5-2ea043?style=flat-square)
+![](https://img.shields.io/badge/LLM%20Providers%2C%20One%20Gateway-3-8957e5?style=flat-square)
+![](https://img.shields.io/badge/Banking-Top%201%25%20Performer-d29922?style=flat-square)
 
-## What I Build
-
-- **Enterprise AI applications** with multi-provider LLM orchestration (Claude, GPT, Gemini)
-- **RAG systems** using PostgreSQL pgvector for semantic search over domain-specific data
-- **Real-time data pipelines** with automated scoring and enrichment engines
-- **Full-stack web platforms** from database schema to deployed product
-
-## Tech Stack
-
-| Layer | Technologies |
-|-------|-------------|
-| **AI / LLM** | OpenAI GPT API, Anthropic Claude API, Google Vertex AI (Gemini), RAG, pgvector, Prompt Engineering, Multi-Agent Orchestration, AI-Assisted Development (Claude Code) |
-| **Frontend** | Next.js 16, React 19, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, Express.js, Python, Flask |
-| **Databases** | PostgreSQL, pgvector, Redis, Google Firestore |
-| **Cloud** | GCP (Cloud Run, Cloud SQL, Pub/Sub, Secret Manager), Docker, CI/CD |
-| **Data** | Web Scraping (BeautifulSoup), Pandas, ETL Pipelines |
-
-## Featured Projects
-
-Most of my work is in private repositories. See my contribution graph for activity, or visit [sivakumar.ai](https://sivakumar.ai) for project details.
-
-### PremiumRadar -- Enterprise B2B Sales Intelligence Platform
-The largest project in my portfolio. A multi-service platform that aggregates business intelligence for banking sales teams using AI-driven analysis and scoring.
-- 2,676+ source files across 4 repositories, 38+ specialized services, 87 database migrations, 80+ database tables
-- Multi-provider LLM gateway with intelligent routing across Claude, GPT, and Gemini
-- RAG pipeline with PostgreSQL pgvector for semantic search
-- Real-time data ingestion, automated lead scoring engine
-- *Next.js, Node.js, TypeScript, PostgreSQL, pgvector, Redis, GCP Cloud Run, Docker*
-- 5 provisional patent applications for novel AI architectures
-
-### SKC Digital -- AI Consulting Platform
-Live at [skc.digital](https://skc.digital). An AI-native consulting engine for strategic analysis and decision support.
-- *Next.js, TypeScript, Vertex AI, PostgreSQL*
-
-### AI Leads Portal -- Event Lead Capture System
-AI-powered lead scoring system built for banking expo events. Features a self-learning scoring engine that improves with feedback.
-- *Node.js, OpenAI API, Firestore, GCP*
-
-### Coach -- Performance Evaluation System
-Microservices-based system for structured performance analysis with AI-generated insights.
-- *Python, Flask, Firestore, GCP*
-
-### PAYROLL -- Data Enrichment Pipeline
-Automated scraping and enrichment pipeline for ADGM company registry data.
-- *Python, BeautifulSoup, Pandas*
-
-### sivakumar.ai -- Personal Portfolio
-Live at [sivakumar.ai](https://sivakumar.ai). Personal website and project showcase.
-- *Next.js, Tailwind CSS*
-
-## Background
-
-- **B.Tech in Information Technology**, Anna University (2002--2006)
-- **8 years** delivering technology projects: 100+ client engagements covering web development, digital marketing, SEO, and end-to-end project management
-- **12 years** in banking and financial services, with deep domain knowledge in retail and priority banking, client advisory, and sales operations
-- **Top 1% performer** -- GEM Sapphire Award and CEO Certificate of Achievement
-
-## Open To
-
-Roles in AI engineering, solutions architecture, or banking technology leadership. Based in Abu Dhabi, UAE. Open to relocate.
+</div>
 
 ---
 
-*Currently building AI systems for the financial sector. Let's connect: [siva@sivakumar.ai](mailto:siva@sivakumar.ai)*
+## 👋 About
+
+Most engineers who can build a RAG pipeline have never sat across from a bank customer. I've done both.
+
+- 🏦 **12 years in retail banking** at Emirates NBD — Senior Retail Banking Officer, GEMS Sapphire Award (top 1%), Group CEO Certificate of Achievement
+- 💻 **8 years in technology delivery** before that — 100+ client projects shipped (2006–2014)
+- 🤖 **Now:** designing and shipping AI systems for regulated financial environments — 9 systems built, 5 running live today
+- 📜 **5 provisional patents filed** for novel AI architectures
+
+> Most of my work lives in **private product repos**. Architecture write-ups and technical decisions are public in [**ai-banking-portfolio**](https://github.com/uaesivakumar/ai-banking-portfolio), and live products are linked below.
+
+---
+
+## 🚀 Featured Systems
+
+| System | What it does | Status | Stack |
+|---|---|---|---|
+| **[inteller.ai](https://inteller.ai)** | Ghost-job detection & resume tailoring across 30+ job platforms | 🟢 Live | Next.js · LLM scoring · Stripe |
+| **[SKC Digital](https://skc.digital)** | Executive simulation built on 30+ documented AI programme failures | 🟢 Live | Vertex AI · pgvector · Next.js |
+| **RM Assistant** | Relationship-management copilot for bankers, with memory persistence | 🟢 Live | FastAPI · Claude · Firestore |
+| **AI Leads Portal** | Conversational intent capture & sales pipeline for banking events | 🟢 Live | Node.js · OpenAI · Firestore |
+| **PremiumRadar** | Governed B2B sales intelligence for regulated industries — 2,600+ source files, 38+ services, 5 provisional patents | 🤝 Seeking design partner | Multi-agent · RAG · pgvector · Neo4j · GCP |
+| **Arsha LMS · Chunav · Coach · Payroll Enrichment** | Learning platform, election analytics, performance evaluation, ADGM data pipeline | 🛠️ In design / build | FastAPI · D3 · Python · GCP |
+
+---
+
+## 🏗️ Architecture Highlights
+
+- **Multi-provider LLM gateway** — failover across Anthropic, OpenAI and Vertex AI with cost tracking per request
+- **Governance by design** — the reasoning layer holds no credential that can change anything; deterministic state machines with 6 decision gates
+- **11-layer discovery pipeline** for entity resolution and enrichment
+- **Retrieval done properly** — pgvector + Neo4j hybrid search, structured memory, full audit trails
+
+---
+
+## 🧰 Tech Stack
+
+**AI / LLM**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+
+**Backend & Frontend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Data & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=uaesivakumar&theme=default&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uaesivakumar&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" width="95%" />
+
+*Most commits land in private product repos — the graph reflects private contribution counts.*
+
+</div>
+
+---
+
+## 🤝 Open To
+
+**AI Solutions Architecture · AI Engineering · Banking + AI leadership roles** — Abu Dhabi / UAE (on-site or hybrid), and remote.
+
+<div align="center">
+
+**📬 [siva@sivakumar.ai](mailto:siva@sivakumar.ai) · [sivakumar.ai](https://sivakumar.ai)**
+
+</div>
