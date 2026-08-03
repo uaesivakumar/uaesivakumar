@@ -37,7 +37,10 @@ I design end-to-end AI systems that go beyond demos — governed, auditable, and
 
 ## 🧩 Open Source
 
-**[llm-gateway](https://github.com/uaesivakumar/llm-gateway)** — one interface across Anthropic, OpenAI and Google Gemini, with automatic failover, circuit breaking and per-request cost tracking. The multi-provider routing layer from my production systems, extracted and open-sourced: one runtime dependency, 91 offline tests, MIT licensed.
+| Repository | What it is |
+|---|---|
+| **[llm-gateway](https://github.com/uaesivakumar/llm-gateway)** | Multi-provider LLM routing — automatic failover, circuit breaking, a bounded latency budget, and cost tracking that refuses to guess. One runtime dependency, 115 offline tests, MIT. |
+| **[ai-architecture-notes](https://github.com/uaesivakumar/ai-architecture-notes)** | Design decisions from production AI systems with the trade-offs left in — agent governance, auditable LLM decisions, hybrid retrieval, and why AI programmes actually fail. |
 
 ---
 
@@ -63,33 +66,20 @@ I design end-to-end AI systems that go beyond demos — governed, auditable, and
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 What I Can Prove
 
-**AI / LLM**
+Claims are cheap. Each capability below links to the code or the write-up that demonstrates it.
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+| Capability | Evidence |
+|---|---|
+| **LLM platform engineering** — multi-provider routing, failover, circuit breaking, cost governance | [`llm-gateway`](https://github.com/uaesivakumar/llm-gateway) — working code, 115 tests, 94% coverage |
+| **Agent governance** — reasoning layers that hold no credential able to change state | [The reasoning layer holds no credential](https://github.com/uaesivakumar/ai-architecture-notes/blob/main/notes/01-credentials-and-the-reasoning-layer.md) |
+| **Auditable AI decisions** — deterministic gates around a probabilistic core | [Deterministic gates](https://github.com/uaesivakumar/ai-architecture-notes/blob/main/notes/02-deterministic-gates-around-a-probabilistic-core.md) |
+| **Hybrid retrieval** — pgvector for passages, graph for identity and relationships | [What vectors miss](https://github.com/uaesivakumar/ai-architecture-notes/blob/main/notes/03-hybrid-retrieval-what-vectors-miss.md) |
+| **AI programme diagnosis** — 30+ documented failures and where they actually go wrong | [Why AI programmes fail](https://github.com/uaesivakumar/ai-architecture-notes/blob/main/notes/04-why-ai-programmes-fail.md) |
+| **Regulated-industry delivery** — compliance, auditability and governance from the inside | 12 years in banking · 5 systems live in production |
 
-**Backend & Frontend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Data & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**Day to day:** Python · FastAPI · Node.js · Next.js · PostgreSQL / pgvector · Neo4j · Firestore · Redis · GCP (Cloud Run, Pub/Sub) · Docker · Anthropic / OpenAI / Vertex AI
 
 ---
 
