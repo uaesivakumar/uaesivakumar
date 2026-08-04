@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Experience-20%20Years-1f6feb?style=flat-square)
 ![](https://img.shields.io/badge/AI%20Systems%20Shipped-9-1f6feb?style=flat-square)
 ![](https://img.shields.io/badge/Live%20in%20Production-5-2ea043?style=flat-square)
-![](https://img.shields.io/badge/Industry%20Domains-6%2B-8957e5?style=flat-square)
+![](https://img.shields.io/badge/Domains-8-8957e5?style=flat-square)
 ![](https://img.shields.io/badge/LLM%20Providers%2C%20One%20Gateway-3-8957e5?style=flat-square)
 
 </div>
@@ -26,7 +26,7 @@
 
 I design end-to-end AI systems that go beyond demos — governed, auditable, and running in production for real users.
 
-- 🚀 **9 AI systems designed and shipped, 5 live today** — spanning talent intelligence, sales intelligence, consulting & decision support, education, civic analytics, HR & performance, and financial services
+- 🚀 **9 AI systems designed and shipped, 5 live today** — across 8 domains: talent intelligence, sales intelligence, consulting & decision support, financial services, EdTech, civic analytics, HR & performance, and data engineering
 - 🏗️ **20 years of experience**: 8 years in technology delivery (100+ client projects) followed by 12 years in enterprise environments, including Emirates NBD where I was recognised as a top 1% performer
 - 🛡️ **Regulated-industry depth**: I understand compliance, auditability and governance from the inside — skills that transfer to any enterprise AI deployment
 - 📜 **5 provisional patents filed** for novel AI architectures
@@ -54,7 +54,8 @@ I design end-to-end AI systems that go beyond demos — governed, auditable, and
 | **RM Assistant** | Financial services | Relationship-management copilot with structured memory persistence | 🟢 Live |
 | **AI Leads Portal** | Sales intelligence | Conversational intent capture & pipeline scoring with self-learning feedback loops | 🟢 Live |
 | **PremiumRadar** | B2B sales intelligence | Governed intelligence platform for regulated industries — 2,600+ source files, 38+ services, 5 provisional patents | 🤝 Design-partner stage |
-| **Arsha LMS · Chunav · Coach · Payroll Enrichment** | EdTech · Civic analytics · HR · Data engineering | Multi-tenant learning platform, election analytics, performance evaluation, registry data pipeline | 🛠️ In design / build |
+| **Payroll Enrichment** | Data engineering | ADGM registry extraction and enrichment pipeline | 🟢 Live |
+| **Arsha LMS · Chunav · Coach** | EdTech · Civic analytics · HR | Multi-tenant learning platform, election analytics, performance evaluation | 🛠️ In design / build |
 
 ---
 
